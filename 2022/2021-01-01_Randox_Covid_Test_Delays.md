@@ -44,9 +44,10 @@ Why is this a problem?
 * Randox is **Refusing Refunds** and coping out with their *no guarantee* disclaimer.
 
 
-### b. Appointment Times not being honoured
+### b. Appointment Times not honoured
 Randox doesn't seem to triage people according to booking time. Basically if you turn up and there is a long queue you can end up waiting in the rain for over 40 minutes.
 
+### c. Lack of Social Distancing
 Dublin Airport queue in the rain on December 30th 2021:
 <p align="center">
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-30_Randox_Dublin_Airport.jpg" width="250"/>
