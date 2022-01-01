@@ -43,11 +43,20 @@ Why is this a problem?
 * Randox should **email affected customers** to warn them that there are delays
 * Randox is **Refusing Refunds** and coping out with their *no guarantee* disclaimer.
 
+### b. Misleading Product Information
+The product I booked was advertised as "**NEXT DAY PCR TEST** *Results by 11.59pm the next day*"
 
-### b. Appointment Times not honoured
+But the fine print describes a different contractual commitment:
+<p align="center">
+  <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2022-01-01_Randox_PCR_Terms_and_Conditions.PNG" />
+</p>
+
+Even the "**EXPRESS PCR TEST** *Results in 1-3 hours*" is contractually due only within 48 hours from reaching the lab!
+
+### c. Appointment Times not honoured
 Randox doesn't seem to triage people according to booking time. Basically if you turn up and there is a long queue you can end up waiting in the rain for over 40 minutes.
 
-### c. Lack of Social Distancing
+### d. Lack of Social Distancing
 Dublin Airport queue in the rain on December 30th 2021:
 <p align="center">
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-30_Randox_Dublin_Airport.jpg" width="250"/>
