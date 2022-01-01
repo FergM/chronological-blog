@@ -1,2 +1,2 @@
-# Fergal's Chronological Blog
+# Fergal's Blog
 Chronological blog post writings on miscellaneous topics
