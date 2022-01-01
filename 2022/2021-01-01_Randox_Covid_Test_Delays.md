@@ -21,6 +21,17 @@ Why is this a problem?
 
 
 ### 2. Appointment Times not being honoured
+Randox doesn't seem to triage people according to booking time. Basically if you turn up and there is a long queue you can end up waiting in the rain for over 40 minutes.
+
+Dublin Airport queue in the rain on December 30th 2021:
+<p align="center">
+  <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-30_Randox_Dublin_Airport.jpg" width="250"/>
+</p>
+
+London Waterloo queue on December 14th:
+<p align="center">
+  <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-14_Randox_London_Waterloo.jpg" width="300"/>
+</p>
 
 # Practical Tips
 * **Look at reviews before booking**
