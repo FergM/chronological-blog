@@ -44,6 +44,6 @@ London Waterloo queue on December 14th:
 * Arrive early for testing
 
 # Philosophical Notes
-This is an example of misaligned profit incentives. Profit encourages Randox to provide the PCR service, but if they overbook or provide poor customer service there's no recourse or way for customers to counter this in the short term. Maybe there's a merger opportunity between Randox and Ryanair. Ideally Randox Founder and Managing Director Dr Peter FitzGerald would step in and resolve these issues on moral grounds even if it eats into some profits.
+This is an example of misaligned profit incentives. Profit encourages Randox to provide the PCR service, but if they overbook or provide poor customer service there's **no recourse for customers** to counter this in the short term. Maybe there's a merger opportunity between Randox and Ryanair. Ideally Randox Founder and Managing Director Dr Peter FitzGerald would step in and resolve these issues on moral grounds even if it eats into some profits.
 
 On one hand this is a classic case of a Movie Theatre Audience trying to exit a small door. It's fine most of the time but when there's a surge the door (capacity) isn't big enough. Randox shouldn't overbook, just like how Movie theatres shouldn't let in more people than the emergency exit capacity.
