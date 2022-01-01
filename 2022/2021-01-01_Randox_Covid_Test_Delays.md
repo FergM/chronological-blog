@@ -7,7 +7,7 @@ Notes about [Randox Ireland](https://booking.randox.ie/) covid testing delays ar
 # Summary
 I missed a flight to India because randox failed to meet the 11:59 pm delivery time for a PCR test. We got our test results at 9:50 am and 10:20 am respectively, which was too late. We phoned Randox when lines opened at 10 am and were told that they would not issue a refund because they do not guarantee the delivery times.
 
-# Reckless Trading (Profiteering) by Randox
+# Reckless Profiteering by Randox
 Randox is helping out lots of people by providing covid tests which enable travel. In London for example they introduced a series of **home testing products which are super useful**. Nonetheless I am writing to point out what I consider **unethical business practices** at Dublin Airport around the New Year period 2022.
 
 ### **1. Reckless Overbooking**
