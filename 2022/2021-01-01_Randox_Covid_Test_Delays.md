@@ -18,6 +18,7 @@ Why is this a problem?
 * Randox **continues to accept "Next Day" bookings without warning customers** about the delays.
 * Randox **Website and Social Media should confirm delays** and give ETA times to help customers.
 * Randox should **email affected customers** to warn them that there are delays
+* Randox is **Refusing Refunds** and coping out with their *no guarantee* disclaimer.
 
 
 ### 2. Appointment Times not being honoured
