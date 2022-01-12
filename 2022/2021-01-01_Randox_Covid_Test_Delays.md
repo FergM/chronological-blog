@@ -10,7 +10,8 @@ I missed a flight to India because randox failed to meet the 11:59 pm delivery t
 Sections:
 1. [List of People Affected](#list-of-people-affected)
 2. [Reckless Profiteering](#reckless-profiteering-by-randox)
-3. [Appendix](#appendix)
+3. [Media Coverage](#media-coverage)
+4. [Appendix](#appendix)
 
 # 1. List of People Affected
 Small sample of tweets from people affected:
@@ -67,7 +68,11 @@ London Waterloo queue on December 14th:
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-14_Randox_London_Waterloo.jpg" width="300"/>
 </p>
 
-# 3. Appendix
+# 3. Media Coverage
+
+* [thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/): "Randox says it takes complaints seriously after customers miss flights due to delayed results"
+
+# 4. Appendix
 ### Practical Tips
 * **Look at reviews before booking**
     * [Google](https://www.google.com/search?q=randox+dublin+airport)
