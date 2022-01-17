@@ -9,13 +9,13 @@ I missed a flight to India because randox failed to meet the 11:59 pm delivery t
 
 Paradoxically randox claims 99.9% timeliness ([thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/), [which.co.uk](https://www.which.co.uk/news/2021/10/travel-news-pcr-tests-results-on-time-randox-expert-medicals-nationwide-pathology/)) which implies Randox could guarantee delivery times with minimal effect on profits.
 
-Sections:
-1. [Media Coverage](#media-coverage)
-2. [Reckless Profiteering](#reckless-profiteering-by-randox)
-3. [List of People Affected](#list-of-people-affected)
-4. [Appendix](#appendix)
+### Sections:
+1. [Media Coverage](#1-media-coverage)
+2. [Reckless Profiteering](#2-reckless-profiteering-by-randox)
+3. [List of People Affected](#3-list-of-people-affected)
+4. [Appendix](#4-appendix)
 
-# 1. Media Coverage
+# 1 Media Coverage
 ### Misleading Advertising
 * [The Times](https://www.thetimes.co.uk/article/watchdog-misleading-pcr-test-boast-ireland-travel-restrictions-v7gr0zwgj): "Watchdog looks into **‘misleading’ PCR test boast**"
 * [thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/): "Randox says it takes complaints seriously after **customers miss flights** due to delayed results"
@@ -30,7 +30,7 @@ Sections:
     * [20 September 2020]()
     * [13 September 2020]()
 
-# 2. Reckless Profiteering by Randox
+# 2 Reckless Profiteering by Randox
 Randox is helping out lots of people by providing covid tests which enable travel. In London for example they introduced a series of **home testing products which are super useful**. Nonetheless I am writing to point out what I consider **unethical business practices** at Dublin Airport around the New Year period 2022.
 
 ### **a. Reckless Overbooking**
@@ -67,7 +67,7 @@ London Waterloo queue on December 14th:
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-14_Randox_London_Waterloo.jpg" width="300"/>
 </p>
 
-# 3. List of People Affected
+# 3 List of People Affected
 Small sample of tweets from people affected:
 * [Derek](https://twitter.com/andrewsderek/status/1477153966001688576?s=20)
 * [Sinead](https://twitter.com/cineadsronin/status/1476692315615993858?s=20)
@@ -84,7 +84,11 @@ Small sample of tweets from people affected:
 * [Rachel](https://twitter.com/RachelH931/status/1477162096362246148?s=20)
 * [Gabrielle](https://twitter.com/gabbiecurran/status/1476562849145274372?s=20)
 
-# 4. Appendix
+# 4 Appendix
+### Thank You
+* To [DocTap](https://doctap.co.uk/) for delivering a guaranteed same day test when Randox failed.
+* To [`@_BrianMahon_`](https://twitter.com/_BrianMahon_) and [`@CeiminB`](https://twitter.com/CeiminB) for media coverage.
+
 ### Practical Tips
 * **Look at reviews before booking**
     * [Google](https://www.google.com/search?q=randox+dublin+airport)
