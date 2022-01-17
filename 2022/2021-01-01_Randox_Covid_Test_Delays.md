@@ -26,9 +26,9 @@ Paradoxically randox claims 99.9% timeliness ([thejournal.ie](https://www.thejou
 * [BBC](https://www.bbc.com/news/uk-northern-ireland-59214966): Owen Paterson: Call for investigation into Randox contracts
     * **UK Lobbying scandal** where Randox was awarded two contracts totalling "£500m for Covid testing equipment."
 * [Randox's Press Releases](https://www.randox.com/tag/sunday-times/): Response to various concerns reported in The Times
-    * [18th October 2020]()
-    * [20 September 2020]()
-    * [13 September 2020]()
+    * [13 September 2020](https://www.thetimes.co.uk/article/owen-paterson-case-randox-won-test-deal-despite-lack-of-equipment-5wdrc296b): "Randox won test deal despite lack of equipment"
+    * [20 September 2020](https://www.thetimes.co.uk/article/rugby-stars-dodge-testing-chaos-thanks-to-randox-lab-that-misses-targets-for-public-5gj760gns): "Rugby stars dodge testing chaos thanks to Randox lab that misses targets for public"
+    * [18th October 2020](https://www.thetimes.co.uk/article/test-and-waste-dido-harding-boss-of-12bn-tracing-scheme-says-it-was-never-a-silver-bullet-s5n66rnjc): "Test and waste"
 
 # 2 Reckless Profiteering by Randox
 Randox is helping out lots of people by providing covid tests which enable travel. In London for example they introduced a series of **home testing products which are super useful**. Nonetheless I am writing to point out what I consider **unethical business practices** at Dublin Airport around the New Year period 2022.
