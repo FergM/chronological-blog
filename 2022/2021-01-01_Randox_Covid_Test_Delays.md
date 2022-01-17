@@ -4,32 +4,31 @@ Notes about [Randox Ireland](https://booking.randox.ie/) covid testing delays ar
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2022-01-01_Randox_Next_Day_Covid_Test.PNG" />
 </p>
 
-# Summary
-I missed a flight to India because randox failed to meet the 11:59 pm delivery time for a PCR test. We got our test results at 9:50 am and 10:20 am respectively, which was too late. We phoned Randox when lines opened at 10 am and were told that they would not issue a refund because they do not guarantee the delivery times.
+# Context
+I missed a flight to India because randox failed to meet the 11:59 pm delivery time for a PCR test. We got our test results at 9:50 am and 10:20 am respectively, which was too late. Randox denied refund because they do not guarantee the delivery times. After our story was shared with the press we received a refund as a gesture of goodwill.
+
+Paradoxically randox claims 99.9% timeliness ([thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/), [which.co.uk](https://www.which.co.uk/news/2021/10/travel-news-pcr-tests-results-on-time-randox-expert-medicals-nationwide-pathology/)) which implies Randox could guarantee delivery times with minimal effect on profits.
 
 Sections:
-1. [List of People Affected](#list-of-people-affected)
+1. [Media Coverage](#media-coverage)
 2. [Reckless Profiteering](#reckless-profiteering-by-randox)
-3. [Media Coverage](#media-coverage)
+3. [List of People Affected](#list-of-people-affected)
 4. [Appendix](#appendix)
 
-# 1. List of People Affected
-Small sample of tweets from people affected:
-* [Derek](https://twitter.com/andrewsderek/status/1477153966001688576?s=20)
-* [Sinead](https://twitter.com/cineadsronin/status/1476692315615993858?s=20)
-* [Cillian](https://twitter.com/Cilliandesmond/status/1477202040505909251?s=20)
-* [Aoife](https://twitter.com/cliffy0701/status/1477233857451761668?s=20)
-* [Sean](https://twitter.com/SeanEMacFadden1/status/1477234455869857798?s=20)
-* [Emma](https://twitter.com/emmagal37422778/status/1476530888724955142?s=20)
-* [Kia](https://twitter.com/KiaAbdullah/status/1477219379452555267?s=20)
-* [Ben](https://twitter.com/BenRaff68003426/status/1477154938111287296?s=20)
-* [Stern](https://twitter.com/mrboombasssstic/status/1476677860618350593?s=20)
-* [Orla](https://twitter.com/ocliffo/status/1477226408971751427?s=20)
-* [Conor](https://twitter.com/ConorCourtenay/status/1477233822580326406?s=20)
-* [Isa](https://twitter.com/IsaGlancy/status/1477070557984305154?s=20)
-* [Rachel](https://twitter.com/RachelH931/status/1477162096362246148?s=20)
-* [Gabrielle](https://twitter.com/gabbiecurran/status/1476562849145274372?s=20)
+# 1. Media Coverage
+### Misleading Advertising
+* [The Times](https://www.thetimes.co.uk/article/watchdog-misleading-pcr-test-boast-ireland-travel-restrictions-v7gr0zwgj): "Watchdog looks into **‘misleading’ PCR test boast**"
+* [thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/): "Randox says it takes complaints seriously after **customers miss flights** due to delayed results"
+* [which.co.uk](https://www.which.co.uk/news/2021/10/travel-news-pcr-tests-results-on-time-randox-expert-medicals-nationwide-pathology/): "Travellers have no right to timely PCR results, some major Covid testing firms’ T&Cs suggest"
 
+### Other Randox Concerns
+* [The Times](https://www.thetimes.co.uk/article/dont-speak-irish-company-that-accepts-gaeltacht-grant-tells-staff-wmntxsvtr): "**Don’t speak Irish**, company that accepts gaeltacht grant tells staff"
+* [BBC](https://www.bbc.com/news/uk-northern-ireland-59214966): Owen Paterson: Call for investigation into Randox contracts
+    * **UK Lobbying scandal** where Randox was awarded two contracts totalling "£500m for Covid testing equipment."
+* [Randox's Press Releases](https://www.randox.com/tag/sunday-times/): Response to various concerns reported in The Times
+    * [18th October 2020]()
+    * [20 September 2020]()
+    * [13 September 2020]()
 
 # 2. Reckless Profiteering by Randox
 Randox is helping out lots of people by providing covid tests which enable travel. In London for example they introduced a series of **home testing products which are super useful**. Nonetheless I am writing to point out what I consider **unethical business practices** at Dublin Airport around the New Year period 2022.
@@ -68,9 +67,22 @@ London Waterloo queue on December 14th:
   <img src="https://github.com/FergM/chronological-blog/blob/main/2022/images/2021-12-14_Randox_London_Waterloo.jpg" width="300"/>
 </p>
 
-# 3. Media Coverage
-
-* [thejournal.ie](https://www.thejournal.ie/randox-pcr-testing-results-delays-5651168-Jan2022/): "Randox says it takes complaints seriously after customers miss flights due to delayed results"
+# 3. List of People Affected
+Small sample of tweets from people affected:
+* [Derek](https://twitter.com/andrewsderek/status/1477153966001688576?s=20)
+* [Sinead](https://twitter.com/cineadsronin/status/1476692315615993858?s=20)
+* [Cillian](https://twitter.com/Cilliandesmond/status/1477202040505909251?s=20)
+* [Aoife](https://twitter.com/cliffy0701/status/1477233857451761668?s=20)
+* [Sean](https://twitter.com/SeanEMacFadden1/status/1477234455869857798?s=20)
+* [Emma](https://twitter.com/emmagal37422778/status/1476530888724955142?s=20)
+* [Kia](https://twitter.com/KiaAbdullah/status/1477219379452555267?s=20)
+* [Ben](https://twitter.com/BenRaff68003426/status/1477154938111287296?s=20)
+* [Stern](https://twitter.com/mrboombasssstic/status/1476677860618350593?s=20)
+* [Orla](https://twitter.com/ocliffo/status/1477226408971751427?s=20)
+* [Conor](https://twitter.com/ConorCourtenay/status/1477233822580326406?s=20)
+* [Isa](https://twitter.com/IsaGlancy/status/1477070557984305154?s=20)
+* [Rachel](https://twitter.com/RachelH931/status/1477162096362246148?s=20)
+* [Gabrielle](https://twitter.com/gabbiecurran/status/1476562849145274372?s=20)
 
 # 4. Appendix
 ### Practical Tips
